@@ -1,0 +1,28 @@
+name: Presskit
+favicon: null
+layout_spectrum: 0.3754481428768486
+typography_spectrum: 0.2685672335792333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14431539922952652
+  lightness: 0.8455831026658416
+  saturation: 0.8661090768873692
+  rhythmicContrast: 0.09001379879191518
+purpose: []
