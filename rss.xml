@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Presskit]]></title>
+        <description><![CDATA[Presskit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 13:15:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BIG BAND MONDAY WITH THE GLENN CRYTZER ORCHESTRA at the FILLMORE ROOM (Monday, February 29, 2016)]]></title>
+            <description><![CDATA[<article><h1>BIG BAND MONDAY WITH THE GLENN CRYTZER ORCHESTRA at the FILLMORE ROOM (Monday, February 29, 2016)</h1><p>03/06/2016 - The Glenn Crytzer Orchestra is Featured in Jazz Lives</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b384c79e551e47bbfb19e051353f89edaebb7f3.jpg"></article>]]></description>
+            <link>https://jazzlives.wordpress.com/2016/03/05/big-band-monday-with-the-glenn-crytzer-orchestra-at-the-fillmore-room-monday-february-29-2016/</link>
+            <guid isPermaLink="false">3c1d8585-938b-4cb2-a9ff-11bc8c9d763c</guid>
+            <pubDate>Sat, 16 Apr 2016 13:14:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
