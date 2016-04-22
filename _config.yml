@@ -1,6 +1,6 @@
 name: Presskit
 favicon: null
-layout_spectrum: 0.74646
+layout_spectrum: 0.73555
 typography_spectrum: 0.2685672335792333
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.8455831026658416
-  saturation: 0.8661090768873692
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
